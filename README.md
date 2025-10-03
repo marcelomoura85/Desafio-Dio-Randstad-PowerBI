@@ -4,11 +4,11 @@
 
 Este projeto apresenta uma análise detalhada de vendas, lucros e unidades vendidas por produto, segmento e país, utilizando dashboards interativos desenvolvidos no Power BI. Os relatórios foram criados com o objetivo de fornecer insights estratégicos para tomada de decisão comercial.
 
-## 🧩 Estrutura dos Dashboards
+## 🧩 Estrutura dos Relatórios
 
 ### 1. Relatório de Vendas por Produto e Segmento
 
-Este dashboard apresenta:
+Este relatório apresenta:
 
 * **Filtros interativos** por ano (2013 e 2014) e trimestre (Q1 a Q4).
 
@@ -34,7 +34,7 @@ Este painel foca na performance geográfica:
 * **Gráfico de barras** com a soma de vendas por país, permitindo comparação direta entre mercados.
 
 ### 3. Distribuição de Lucros, Vendas e Unidades Vendidas por País e Segmentos
-Este dashboard oferece uma visão integrada entre segmentos e regiões:
+Este relatório oferece uma visão integrada entre segmentos e regiões:
 
 * **Gráfico de pizza** com a soma de lucros por segmento:
 
